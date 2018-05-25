@@ -1,2 +1,4 @@
 # test_repo
-Test source control methods.
+A repo for testing source control methods.
+
+git vs. sourcetree
