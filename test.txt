@@ -1,3 +1,8 @@
 This is a test of pushing with commits and stuff. Will change in new branch.
 
+I'm adding some text
+that will push back
+
+where the changed text was
+
 Current branch -- hotfix_test_txt_update
